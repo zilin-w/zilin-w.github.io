@@ -130,8 +130,8 @@ $('.responsive').on('click', function (e) {
     
     // HOME TYPED JS
       $(".element").typed({
-        strings: ["Stephens", "Web Designer"],
-        typeSpeed: 10,
+        strings: ["Zilin Wang", "嗨！ hello！ Moin!"],
+        typeSpeed: 8,
         loop:true,
         backDelay: 2000
       });
@@ -139,11 +139,11 @@ $('.responsive').on('click', function (e) {
     
     
     // MAGNIFIC POPUP FOR PORTFOLIO PAGE
-    $('.link').magnificPopup({
-        type:'image',
-        gallery:{enabled:true},
-        zoom:{enabled: true, duration: 300}
-    });
+    // $('.link').magnificPopup({
+    //     type:'image',
+    //     gallery:{enabled:true},
+    //     zoom:{enabled: true, duration: 300}
+    // });
     
        // OWL CAROUSEL GENERAL JS
     var owlcar = $('.owl-carousel');
