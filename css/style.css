@@ -236,7 +236,7 @@ input:-webkit-autofill {
 /*preloader */
 
 #preloader {
-    background-color:#4f9876;
+    background-color:#36b370;
     position: fixed;
     top:0;
     left:0;
@@ -454,7 +454,7 @@ input:-webkit-autofill {
 /*------------------------ 2 Home ------------------------*/		
 
 .home{
-    background:url(../images/bg.png) no-repeat center;
+    background:url(../images/bg3.png) no-repeat center;
     width: 100%;
     display: table;
 }
@@ -1284,7 +1284,7 @@ a.site-button{
     }
     
     nav{
-        padding:30px 15px;
+        padding: 15px 15px;
     }
     
     .nav-menu{
