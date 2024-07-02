@@ -993,6 +993,14 @@ input:-webkit-autofill {
     -moz-border-radius: 50px;
 }
 
+.ReadMore {
+   text-align: center;
+}
+
+.empty-row {
+    margin-top: 20px;
+    line-height: 1.5;
+}
 
 
 /*------------------------ 5 Blog ------------------------*/
