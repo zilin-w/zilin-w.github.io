@@ -377,6 +377,7 @@ div.kraftcf .ajax-loader {
     margin-top: 0;
   }
 }
+
 /*--------------------------------------------------------------
 Contents
 --------------------------------------------------------------*/
@@ -2722,9 +2723,9 @@ body.blog .navigation.pagination .prev.page-numbers i, body.blog .navigation.pag
   text-align: right;
 }
 
-.nav-links .nav-title-icon-wrapper {
+/* .nav-links .nav-title-icon-wrapper {
   display: none;
-}
+} */
 
 body.search.search-no-results #primary.content-area #main.site-main > p {
   font-size: 24px;
@@ -3220,11 +3221,11 @@ h2.widget-title:after {
 .search-form .search-submit:hover {
   opacity: .85;
 }
-.search-form .search-submit .icon {
+/* .search-form .search-submit .icon {
   height: 24px;
   top: -2px;
   width: 24px;
-}
+} */
 .search-form .search-field {
   padding: 10px 59px 10px 15px;
 }
