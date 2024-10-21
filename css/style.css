@@ -454,8 +454,9 @@ input:-webkit-autofill {
 
 /*------------------------ 2 Home ------------------------*/		
 
+
 .home{
-    background:url(../images/bg3.png) no-repeat center;
+    background:url(../images/bg3.webp) no-repeat center;
     width: 100%;
     display: table;
 }
