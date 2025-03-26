@@ -1411,12 +1411,22 @@ a.site-button{
 
 
 
+.video-container{
+    display: flex;
+    justify-content:center;
+    gap:40px;
+}
+
+video{
+    width:300px;
+    height: auto;
+}
 
 
-
-
-
-
+.responsive-video{
+    width:100%;
+    height:auto;
+}
 
 
 
