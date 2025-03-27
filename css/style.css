@@ -1260,7 +1260,7 @@ a.site-button{
     } 
     
      .what-can .feature{
-        padding: 0 30px;
+        padding: 0 15px;
     }
     
     .about.type-1 .about-image{
@@ -1268,6 +1268,8 @@ a.site-button{
     }
     
     .about.type-1 .about-image img{
+        width: 100%;
+        height: auto;
         margin: 0;
     }
     
