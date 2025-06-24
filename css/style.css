@@ -698,7 +698,7 @@ input:-webkit-autofill {
 }
 
 .fb:hover{
-    color: #3b5998!important;
+    color: #494949!important;
     transition: all ease 0.1s;
 }
 
@@ -1027,8 +1027,10 @@ input:-webkit-autofill {
 }
 
 .blog-info{
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 400;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
     color: #b9b9b9;
     margin-top: 20px;
     display: inline-block;
